@@ -190,7 +190,7 @@ class MyClipModel(sd1_clip.SDClipModel):
 
 ### 3. Model Implementation
 
-Actual model implementation. For the constructor argument `operations`, please refer to the [Model Guidelines](./Custom_Model_Guide.md).
+Actual model implementation. For the constructor argument `operations`, please refer to the [Custom Model Implementation Guide](./Custom_Model_Guide.md).
 
 ```python
 # models/clip_model.py

@@ -190,7 +190,7 @@ class MyClipModel(sd1_clip.SDClipModel):
 
 ### 3. モデル実装
 
-実際のモデルの実装です。コンストラクタ引数の `operations` については [モデルガイドライン](./Custom_Model_Guide_ja.md) を参照してください。
+実際のモデルの実装です。コンストラクタ引数の `operations` については [カスタムモデル実装ガイド](./Custom_Model_Guide_ja.md) を参照してください。
 
 ```python
 # models/clip_model.py

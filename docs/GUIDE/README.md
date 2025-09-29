@@ -4,12 +4,12 @@ This guide describes the procedures for defining and implementing new models on 
 
 ## 1. Custom Model Implementation
 
-Please refer to [./Custom_Model_Guide.md](Custom_Model_Guide.md).
+Please refer to [Custom_Model_Guide.md](./Custom_Model_Guide.md).
 This describes the procedure for enabling custom models to be loaded from standard CheckpointLoader and similar nodes.
 
 ## 2. Custom Text Encoder Implementation
 
-Please refer to [./Custom_ClipTarget_Guide.md](Custom_ClipTarget_Guide.md).
+Please refer to [Custom_ClipTarget_Guide.md](./Custom_ClipTarget_Guide.md).
 This describes the procedure for implementing custom text encoders.
 
 ## 3. Supplementary Information

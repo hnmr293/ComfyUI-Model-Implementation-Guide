@@ -4,12 +4,12 @@
 
 ## 1. カスタムモデルの実装
 
-[./Custom_Model_Guide_ja.md](Custom_Model_Guide_ja.md) を参照してください。
+[Custom_Model_Guide_ja.md](./Custom_Model_Guide_ja.md) を参照してください。
 標準の CheckpointLoader などからカスタムモデルを読み込めるようにする手順を記載しています。
 
 ## 2. カスタムテキストエンコーダの実装
 
-[./Custom_ClipTarget_Guide_ja.md](Custom_ClipTarget_Guide_ja.md) を参照してください。
+[Custom_ClipTarget_Guide_ja.md](./Custom_ClipTarget_Guide_ja.md) を参照してください。
 カスタムテキストエンコーダを実装する手順を記載しています。
 
 ## 3. 補足
